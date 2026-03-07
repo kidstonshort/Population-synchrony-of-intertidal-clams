@@ -1,5 +1,5 @@
 <resource xsl:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.0/metadata.xsd" >
-identifier identifierType="DOI">10.6084/m9.figshare.5717983</identifier>
+<identifier identifierType="DOI">10.6084/m9.figshare.5717983</identifier>
   <alternateIdentifiers>
     <alternateIdentifier alternateIdentifierType="URL">https://figshare.com/articles/dataset/Spatial_and_temporal_population_coherence_in_intertidal_clams/5717983>
   </alternateIdentifiers>
@@ -38,5 +38,31 @@ identifier identifierType="DOI">10.6084/m9.figshare.5717983</identifier>
   </creators>
 
   <titles>
-    <title>
+    <title>Population Synchrony of Intertidal Clams</title>
+    <title titleType=" AlternativeTitle">
+      Intertidal clams exhibit population synchrony across spatial and temporal scales
+    </title>
+  </titles>
+
+  <publisher>Limnology and Oceanography</publisher>
+  <publicationYear>2019</publicationYear>
+
+  <resourcetype>Dataset</resourcetype>
+  <subject>oceanography; population dyncamics; bivalve mollusc</subject>
+  <language>en-US</language>
+  <descriptions>
+    <description descriptionType="Abstract">
+      Long-term datasets can be particularly useful for parsing out factors influencing populations, yet few studies
+have utilized continuous datasets to quantify population dynamics in bivalve molluscs. We used dynamic factor
+analysis on a clam biomass dataset spanning 28 yr and five distinct regions in the southern Salish Sea to determine (1) if native intertidal clam populations exhibit synchrony and (2) what environmental covariates may be
+correlated with these population trends. Once covariates were accounted for, the model with the most data support included three predominant trends to describe multidecadal change in clam biomass. Intraspecific synchrony was highest among Saxidomus gigantea and Leukoma staminea populations, with no clear evidence of
+covariance in Clinocardium nuttallii. Specifically, we quantified a pronounced decadal decline in L. staminea and
+an increase in S. gigantea biomass on most beaches. No beaches showed synchrony in trends across all three
+species, indicating that species-specific trends (regardless of location) were more common than beach-specific
+trends (regardless of species). Seven environmental covariates were evaluated in their capacity to explain variability in annual mean biomass. Of these, the North Pacific Gyre Oscillation lagged 4 yr prior to the observation
+year was most supported by the data in the best fitting model, implying that 4 yr old clam biomass is partially
+determined by oceanographic processes affecting larval clams. Although results suggest large-scale densityindependent factors play a role in venerid clam population dynamics, it is also likely local factors account for
+variability not explained by our model.
+    </description>
+  </descriptions>
   
